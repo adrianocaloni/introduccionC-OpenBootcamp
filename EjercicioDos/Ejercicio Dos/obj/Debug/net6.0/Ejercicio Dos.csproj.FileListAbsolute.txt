@@ -1,0 +1,15 @@
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\bin\Debug\net6.0\Ejercicio Dos.exe
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\bin\Debug\net6.0\Ejercicio Dos.deps.json
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\bin\Debug\net6.0\Ejercicio Dos.runtimeconfig.json
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\bin\Debug\net6.0\Ejercicio Dos.dll
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\bin\Debug\net6.0\Ejercicio Dos.pdb
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\Ejercicio Dos.csproj.AssemblyReference.cache
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\Ejercicio Dos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\Ejercicio Dos.AssemblyInfoInputs.cache
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\Ejercicio Dos.AssemblyInfo.cs
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\Ejercicio Dos.csproj.CoreCompileInputs.cache
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\Ejercicio Dos.dll
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\refint\Ejercicio Dos.dll
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\Ejercicio Dos.pdb
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\Ejercicio Dos.genruntimeconfig.cache
+C:\Users\acaloni\source\repos\Ejercicios Sesion 1\EjercicioDos\Ejercicio Dos\obj\Debug\net6.0\ref\Ejercicio Dos.dll

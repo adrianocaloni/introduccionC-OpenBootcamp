@@ -1,0 +1,5 @@
+C:\Users\acaloni\source\repos\holamundo\Ejercicios Sesion 1\Ejercicios sesion 1\obj\Debug\net6.0\Ejercicios sesion 1.csproj.AssemblyReference.cache
+C:\Users\acaloni\source\repos\holamundo\Ejercicios Sesion 1\Ejercicios sesion 1\obj\Debug\net6.0\Ejercicios sesion 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acaloni\source\repos\holamundo\Ejercicios Sesion 1\Ejercicios sesion 1\obj\Debug\net6.0\Ejercicios sesion 1.AssemblyInfoInputs.cache
+C:\Users\acaloni\source\repos\holamundo\Ejercicios Sesion 1\Ejercicios sesion 1\obj\Debug\net6.0\Ejercicios sesion 1.AssemblyInfo.cs
+C:\Users\acaloni\source\repos\holamundo\Ejercicios Sesion 1\Ejercicios sesion 1\obj\Debug\net6.0\Ejercicios sesion 1.csproj.CoreCompileInputs.cache
